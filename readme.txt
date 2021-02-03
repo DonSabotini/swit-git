@@ -1,2 +1,1 @@
-this line is written in feature branch
-
+this line will conflict
